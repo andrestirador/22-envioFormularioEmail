@@ -1,0 +1,20 @@
+Formulario-
+
+Setup is easy and free.
+Design a form for your site, and be sure to name all the fields. Then, just point the action to us and confirm your email address!
+
+NO REGISTRATION REQUIRED
+1. CONNECT YOUR FORM
+Pointing the action-attribute of your form to our URL will enable submissions to be sent to your email address.
+
+<form action="https://formsubmit.co/your@email.com" method="POST" />
+
+2. ADD NAME ATTRIBUTES
+Include a name attribute in all form elements (i.e. <input>, <select>, and <textarea>) to receive the submission data.
+
+<input type="email" name="email">
+
+3. SEND AND CONFIRM
+Submit the form once. This first-time-use will trigger an email requesting confirmation.
+
+the first email 
